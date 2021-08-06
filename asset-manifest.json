@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/the-ham/static/css/main.93ec2bbf.chunk.css",
+    "main.js": "/the-ham/static/js/main.6d1ce79b.chunk.js",
+    "main.js.map": "/the-ham/static/js/main.6d1ce79b.chunk.js.map",
+    "runtime-main.js": "/the-ham/static/js/runtime-main.2e77ab10.js",
+    "runtime-main.js.map": "/the-ham/static/js/runtime-main.2e77ab10.js.map",
+    "static/css/2.44826e3e.chunk.css": "/the-ham/static/css/2.44826e3e.chunk.css",
+    "static/js/2.af2c1944.chunk.js": "/the-ham/static/js/2.af2c1944.chunk.js",
+    "static/js/2.af2c1944.chunk.js.map": "/the-ham/static/js/2.af2c1944.chunk.js.map",
+    "static/js/3.a38390c9.chunk.js": "/the-ham/static/js/3.a38390c9.chunk.js",
+    "static/js/3.a38390c9.chunk.js.map": "/the-ham/static/js/3.a38390c9.chunk.js.map",
+    "index.html": "/the-ham/index.html",
+    "static/css/2.44826e3e.chunk.css.map": "/the-ham/static/css/2.44826e3e.chunk.css.map",
+    "static/css/main.93ec2bbf.chunk.css.map": "/the-ham/static/css/main.93ec2bbf.chunk.css.map",
+    "static/js/2.af2c1944.chunk.js.LICENSE.txt": "/the-ham/static/js/2.af2c1944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e77ab10.js",
+    "static/css/2.44826e3e.chunk.css",
+    "static/js/2.af2c1944.chunk.js",
+    "static/css/main.93ec2bbf.chunk.css",
+    "static/js/main.6d1ce79b.chunk.js"
+  ]
+}
